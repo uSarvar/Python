@@ -319,72 +319,7 @@ Created on Mon Dec 20 23:24:43 2021
 #else:
 #    print('Xush kelibsiz!')
 
-
-son = int(input('Istalgan butun son kiriting: '))
-for n in range(2,11):
-    if son%n==0:
-        print(f"{son} soni {n} ga qoldiqsiz bo'linadi")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#son = int(input('Istalgan butun son kiriting: '))
+#for n in range(2,11):
+#    if son%n==0:
+#        print(f"{son} soni {n} ga qoldiqsiz bo'linadi")
